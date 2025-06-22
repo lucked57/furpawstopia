@@ -1,0 +1,52 @@
+@media only screen and (min-width: 1260px) {
+    
+
+   .logo{
+   	font-size: 24px;
+   }
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (min-width: 600px){
+
+   .img-blog-main img{
+      height: 200px;
+      width: 100%;
+      object-fit: cover;
+   }
+
+   .img-blog-main-lg img{
+      height: 300px;
+      width: 100%;
+      object-fit: cover;
+   }
+      
+}
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
